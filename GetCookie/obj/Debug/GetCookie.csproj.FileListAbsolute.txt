@@ -1,0 +1,5 @@
+e:\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\GetCookie.dll.config
+e:\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\GetCookie.dll
+e:\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\GetCookie.pdb
+e:\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\GetCookie.dll
+e:\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\GetCookie.pdb
